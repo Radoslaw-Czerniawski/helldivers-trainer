@@ -1,0 +1,292 @@
+[
+  {
+    "name": "LIFT-850 Jump Pack",
+    "image": "lift_850_jump_pack.png",
+    "inputs": ["DOWN", "UP", "UP", "DOWN", "UP"]
+  },
+  {
+    "name": "B-1 Supply Pack",
+    "image": "b_1_supply_pack.png",
+    "inputs": ["DOWN", "LEFT", "DOWN", "UP", "UP", "DOWN"]
+  },
+  {
+    "name": "AX/LAS-5 \"Guard Dog\" Rover",
+    "image": "ax_las_5_guard_dog_rover.png",
+    "inputs": ["DOWN", "UP", "LEFT", "UP", "RIGHT", "RIGHT"]
+  },
+  {
+    "name": "SH-20 Ballistic Shield Backpack",
+    "image": "sh_20_ballistic_shield_backpack.png",
+    "inputs": ["DOWN", "LEFT", "DOWN", "DOWN", "UP", "LEFT"]
+  },
+  {
+    "name": "SH-32 Shield Generator Pack",
+    "image": "sh_32_shield_generator_pack.png",
+    "inputs": ["DOWN", "UP", "LEFT", "RIGHT", "LEFT", "RIGHT"]
+  },
+  {
+    "name": "AX/AR-23 \"Guard Dog\"",
+    "image": "ax_ar_23_guard_dog.png",
+    "inputs": ["DOWN", "UP", "LEFT", "UP", "RIGHT", "DOWN"]
+  },
+  {
+    "name": "MG-43 Machine Gun",
+    "image": "mg_43_machine_gun.png",
+    "inputs": ["DOWN", "LEFT", "DOWN", "UP", "RIGHT"]
+  },
+  {
+    "name": "APW-1 Anti-Materiel Rifle",
+    "image": "apw_1_anti_materiel_rifle.png",
+    "inputs": ["DOWN", "LEFT", "RIGHT", "UP", "DOWN"]
+  },
+  {
+    "name": "M-105 Stalwart",
+    "image": "m_105_stalwart.png",
+    "inputs": ["DOWN", "LEFT", "DOWN", "UP", "UP", "LEFT"]
+  },
+  {
+    "name": "EAT-17 Expendable Anti-tank",
+    "image": "eat_17_expendable_anti_tank.png",
+    "inputs": ["DOWN", "DOWN", "LEFT", "UP", "RIGHT"]
+  },
+  {
+    "name": "GR-8 Recoilless Rifle",
+    "image": "gr_8_recoilless_rifle.png",
+    "inputs": ["DOWN", "LEFT", "RIGHT", "RIGHT", "LEFT"]
+  },
+  {
+    "name": "FLAM-40 Flamethrower",
+    "image": "flam_40_flamethrower.png",
+    "inputs": ["DOWN", "LEFT", "UP", "DOWN", "UP"]
+  },
+  {
+    "name": "AC-8 Autocannon",
+    "image": "ac_8_autocannon.png",
+    "inputs": ["DOWN", "LEFT", "DOWN", "UP", "UP", "RIGHT"]
+  },
+  {
+    "name": "RS-422 Railgun",
+    "image": "rs_422_railgun.png",
+    "inputs": ["DOWN", "RIGHT", "DOWN", "UP", "LEFT", "RIGHT"]
+  },
+  {
+    "name": "FAF-14 SPEAR Launcher",
+    "image": "faf_14_spear_launcher.png",
+    "inputs": ["DOWN", "DOWN", "UP", "DOWN", "DOWN"]
+  },
+  {
+    "name": "GL-21 Grenade Launcher",
+    "image": "gl_21_grenade_launcher.png",
+    "inputs": ["DOWN", "LEFT", "UP", "LEFT", "DOWN"]
+  },
+  {
+    "name": "LAS-98 Laser Cannon",
+    "image": "las_98_laser_cannon.png",
+    "inputs": ["DOWN", "LEFT", "DOWN", "UP", "LEFT"]
+  },
+  {
+    "name": "ARC-3 Arc Thrower",
+    "image": "arc_3_arc_thrower.png",
+    "inputs": ["DOWN", "RIGHT", "DOWN", "UP", "LEFT", "LEFT"]
+  },
+  {
+    "name": "Reinforce",
+    "image": "reinforce.png",
+    "inputs": ["UP", "DOWN", "RIGHT", "LEFT", "UP"]
+  },
+  {
+    "name": "SOS Beacon",
+    "image": "sos_beacon.png",
+    "inputs": ["UP", "DOWN", "RIGHT", "UP"]
+  },
+  {
+    "name": "Resupply",
+    "image": "resupply.png",
+    "inputs": ["DOWN", "DOWN", "UP", "RIGHT"]
+  },
+  {
+    "name": "NUX-223 Hellbomb",
+    "image": "nux_223_hellbomb.png",
+    "inputs": ["DOWN", "UP", "LEFT", "DOWN", "UP", "RIGHT", "DOWN", "UP"]
+  },
+  {
+    "name": "SSSD Delivery",
+    "image": "sssd_delivery.png",
+    "inputs": ["DOWN", "DOWN", "DOWN", "UP", "UP"]
+  },
+  {
+    "name": "Seismic Probe",
+    "image": "seismic_probe.png",
+    "inputs": ["UP", "UP", "LEFT", "RIGHT", "DOWN", "DOWN"]
+  },
+  {
+    "name": "Upload Data",
+    "image": "upload_data.png",
+    "inputs": ["DOWN", "DOWN", "UP", "UP", "UP"]
+  },
+  {
+    "name": "Eagle Rearm",
+    "image": "eagle_rearm.jpg",
+    "inputs": ["UP", "UP", "LEFT", "UP", "RIGHT"]
+  },
+  {
+    "name": "Illumination Flare",
+    "image": null,
+    "inputs": ["RIGHT", "RIGHT", "LEFT", "LEFT"]
+  },
+  {
+    "name": "SEAF Artillery",
+    "image": "seaf_artillery.jpg",
+    "inputs": ["RIGHT", "UP", "UP", "DOWN"]
+  },
+  {
+    "name": "Super Earth Flag",
+    "image": "super_earth_flag.jpg",
+    "inputs": ["DOWN", "UP", "DOWN", "UP"]
+  },
+  {
+    "name": "E/MG-101 HMG Emplacement",
+    "image": "e_mg_101_hmg_emplacement.png",
+    "inputs": ["DOWN", "UP", "LEFT", "RIGHT", "RIGHT", "LEFT"]
+  },
+  {
+    "name": "FX-12 Shield Generator Relay",
+    "image": "fx_12_shield_generator_relay.png",
+    "inputs": ["DOWN", "DOWN", "LEFT", "RIGHT", "LEFT", "RIGHT"]
+  },
+  {
+    "name": "A/ARC-3 Tesla Tower",
+    "image": "a_arc_3_tesla_tower.png",
+    "inputs": ["DOWN", "UP", "RIGHT", "UP", "LEFT", "RIGHT"]
+  },
+  {
+    "name": "MD-6 Anti-Personnel Minefield",
+    "image": "md_6_anti_personnel_minefield.png",
+    "inputs": ["DOWN", "LEFT", "UP", "RIGHT"]
+  },
+  {
+    "name": "MD-I4 Incendiary Mines",
+    "image": "md_i4_incendiary_mines.png",
+    "inputs": ["DOWN", "LEFT", "LEFT", "DOWN"]
+  },
+  {
+    "name": "A/MG-43 Machine Gun Sentry",
+    "image": "a_mg_43_machine_gun_sentry.png",
+    "inputs": ["DOWN", "UP", "RIGHT", "RIGHT", "UP"]
+  },
+  {
+    "name": "A/G-16 Gatling Sentry",
+    "image": "a_g_16_gatling_sentry.png",
+    "inputs": ["DOWN", "UP", "RIGHT", "LEFT"]
+  },
+  {
+    "name": "A/M-12 Mortar Sentry",
+    "image": "a_m_12_mortar_sentry.png",
+    "inputs": ["DOWN", "UP", "RIGHT", "RIGHT", "DOWN"]
+  },
+  {
+    "name": "A/AC-8 Autocannon Sentry",
+    "image": "a_ac_8_autocannon_sentry.png",
+    "inputs": ["DOWN", "UP", "RIGHT", "UP", "LEFT", "UP"]
+  },
+  {
+    "name": "A/MLS-4X Rocket Sentry",
+    "image": "a_mls_4x_rocket_sentry.png",
+    "inputs": ["DOWN", "UP", "RIGHT", "RIGHT", "LEFT"]
+  },
+  {
+    "name": "A/M-23 EMS Mortar Sentry",
+    "image": "a_m_23_ems_mortar_sentry.png",
+    "inputs": ["DOWN", "UP", "RIGHT", "DOWN", "RIGHT"]
+  },
+  {
+    "name": "Orbital Gatling Barrage",
+    "image": "orbital_gatling_barrage.png",
+    "inputs": ["RIGHT", "DOWN", "LEFT", "UP", "UP"]
+  },
+  {
+    "name": "Orbital Airburst Strike",
+    "image": "orbital_airburst_strike.png",
+    "inputs": ["RIGHT", "RIGHT", "RIGHT"]
+  },
+  {
+    "name": "Orbital 120MM HE Barrage",
+    "image": "orbital_120mm_he_barrage.png",
+    "inputs": ["RIGHT", "RIGHT", "DOWN", "LEFT", "RIGHT", "DOWN"]
+  },
+  {
+    "name": "Orbital 380MM HE Barrage",
+    "image": "orbital_380mm_he_barrage.png",
+    "inputs": ["RIGHT", "DOWN", "UP", "UP", "LEFT", "DOWN", "DOWN"]
+  },
+  {
+    "name": "Orbital Walking Barrage",
+    "image": "orbital_walking_barrage.png",
+    "inputs": ["RIGHT", "DOWN", "RIGHT", "DOWN", "RIGHT", "DOWN"]
+  },
+  {
+    "name": "Orbital Laser",
+    "image": "orbital_laser.png",
+    "inputs": ["RIGHT", "DOWN", "UP", "RIGHT", "DOWN"]
+  },
+  {
+    "name": "Orbital Railcannon Strike",
+    "image": "orbital_railcannon_strike.png",
+    "inputs": ["RIGHT", "UP", "DOWN", "DOWN", "RIGHT"]
+  },
+  {
+    "name": "Orbital Precision Strike",
+    "image": "orbital_precision_strike.png",
+    "inputs": ["RIGHT", "RIGHT", "UP"]
+  },
+  {
+    "name": "Orbital Gas Strike",
+    "image": "orbital_gas_strike.png",
+    "inputs": ["RIGHT", "RIGHT", "DOWN", "RIGHT"]
+  },
+  {
+    "name": "Orbital EMS Strike",
+    "image": "orbital_ems_strike.png",
+    "inputs": ["RIGHT", "RIGHT", "LEFT", "DOWN"]
+  },
+  {
+    "name": "Orbital Smoke Strike",
+    "image": "orbital_smoke_strike.png",
+    "inputs": ["RIGHT", "RIGHT", "DOWN", "UP"]
+  },
+  {
+    "name": "Eagle Strafing Run",
+    "image": "eagle_strafing_run.png",
+    "inputs": ["UP", "RIGHT", "RIGHT"]
+  },
+  {
+    "name": "Eagle Airstrike",
+    "image": "eagle_airstrike.png",
+    "inputs": ["UP", "RIGHT", "DOWN", "RIGHT"]
+  },
+  {
+    "name": "Eagle Cluster Bomb",
+    "image": "eagle_cluster_bomb.png",
+    "inputs": ["UP", "RIGHT", "DOWN", "DOWN", "RIGHT"]
+  },
+  {
+    "name": "Eagle Napalm Airstrike",
+    "image": "eagle_napalm_airstrike.png",
+    "inputs": ["UP", "RIGHT", "DOWN", "UP"]
+  },
+  {
+    "name": "Eagle Smoke Strike",
+    "image": "eagle_smoke_strike.png",
+    "inputs": ["UP", "RIGHT", "UP", "DOWN"]
+  },
+  {
+    "name": "Eagle 110MM Rocket Pods",
+    "image": "eagle_110mm_rocket_pods.png",
+    "inputs": ["UP", "RIGHT", "UP", "LEFT"]
+  },
+  {
+    "name": "Eagle 500kg Bomb",
+    "image": "eagle_500kg_bomb.png",
+    "inputs": ["UP", "RIGHT", "DOWN", "DOWN", "DOWN"]
+  }
+]
